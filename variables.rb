@@ -13,3 +13,10 @@ alpha = 0.1
 f = false
 t = true
 isChill = true
+
+
+puts(greeting)
+greeting = "My bad. waaaaaasssuuuuup!"
+puts(greeting)
+
+puts("no " + lies)
