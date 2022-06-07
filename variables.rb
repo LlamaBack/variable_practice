@@ -9,3 +9,7 @@ int = 5
 money = 0.00
 pi = 3.14
 alpha = 0.1
+
+f = false
+t = true
+isChill = true
