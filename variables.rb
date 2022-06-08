@@ -12,11 +12,11 @@ alpha = 0.1
 
 f = false
 t = true
-isChill = true
+is_chill = true
 
 
-puts(greeting)
+puts greeting
 greeting = "My bad. waaaaaasssuuuuup!"
-puts(greeting)
+puts greeting
 
-puts("no " + lies)
+puts "no " + lies
